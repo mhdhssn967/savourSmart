@@ -1,0 +1,17 @@
+*{
+    font-family: "Quicksand", serif;
+    /* background-color: rgb(245, 241, 235); */
+}
+.cl{
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(39, 38, 38);
+}
+.h{
+    color: rgb(21, 150, 21);
+}
+button:hover{
+    /* transform: scale(1.1); */
+    filter: hue-rotate(320deg);
+}
